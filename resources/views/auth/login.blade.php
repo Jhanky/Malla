@@ -20,7 +20,7 @@
         integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
 
         <style>
-            body{background-color:#DA6818}
+            body{background-color:#dfdfdf}
         </style>
 
 </head>

@@ -1,4 +1,4 @@
-@extends('layouts.layoutFinanzas')
+@extends('layouts.main')
 
 
 @section('base')

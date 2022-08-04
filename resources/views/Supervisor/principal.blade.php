@@ -1,4 +1,4 @@
-@extends('layouts.layoutSuper')
+@extends('layouts.main')
 
 @section('base')
     <div class="card shadow mb-4">
@@ -23,9 +23,32 @@
                                 <a class="btn" href="/Supervisor/Calendario-Agente"
                                     style="background-color: #f96806; color:white">Ver</a>
                             </td>
+                            <tr>
+                                <td>Jhan</td>
+                                <td>1007795243</td>
+                                <td class="text-center">
+                                    <a class="btn" href="/Supervisor/Calendario-Agente"
+                                        style="background-color: #f96806; color:white">Ver</a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Jhan</td>
+                                <td>1007795243</td>
+                                <td class="text-center">
+                                    <a class="btn" href="/Supervisor/Calendario-Agente"
+                                        style="background-color: #f96806; color:white">Ver</a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Jhan</td>
+                                <td>1007795243</td>
+                                <td class="text-center">
+                                    <a class="btn" href="/Supervisor/Calendario-Agente"
+                                        style="background-color: #f96806; color:white">Ver</a>
+                                </td>
+                            </tr>
                         </tr>
-
-                    </tbody>
+                     </tbody>
                 </table>
             </div>
         </div>
